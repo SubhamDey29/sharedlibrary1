@@ -1,5 +1,5 @@
 
-def terraformAction()
+def call()
     {
         if(params.Action=='Build'){
         sh("terraform apply -auto-approve");
