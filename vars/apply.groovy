@@ -1,5 +1,5 @@
 def call(){
-  input(message: 'Apply Terraform ?')
+  //input(message: 'Apply Terraform ?')
   echo "hello"
 }
   
